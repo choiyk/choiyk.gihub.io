@@ -7,7 +7,6 @@ categories: EffectiveJava
 ## 규칙1
 ### 생성자 대신 정적 팩토리 메소드를 사용할 수 없는지 생각해 보라
 {: .notice--primary}
-#
 
 #### 정적 팩토리 메소드
 Static Factory Method 는 public static method 로서 외부 클래스에서 바로 접근할 수 있는 method 로, 생성자의 역할을 한다.
