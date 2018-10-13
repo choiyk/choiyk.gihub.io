@@ -2,6 +2,7 @@
 title: "Effective Java 규칙1"
 date: 2018-10-14"
 categories: EffectiveJava
+tags: java
 ---
 
 ## 규칙1

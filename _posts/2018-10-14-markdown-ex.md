@@ -5,10 +5,6 @@ header:
 categories:
   - Markup
 tags:
-  - content
-  - css
-  - formatting
-  - html
   - markup
 toc: true
 ---
