@@ -6,7 +6,7 @@ tags: java
 ---
 
 ## 규칙2
-생성자 인자가 많을 때는 Builder 패턴 적용을 고려하라
+# 생성자 인자가 많을 때는 Builder 패턴 적용을 고려하라
 {: .notice--primary}
 
 ### 점층적 생성자 패턴
@@ -37,4 +37,4 @@ tags: java
 * 점층적 생성자보다 많은 코드를 요구하기 떄문에 인자가 충분히 많은 상황(가령, 네 개 이상)에서 이용해야 한다.
 
 ### 참고자료
-* 예제 코드 - 기계인간 John Grib 블로그 [바로가기](https://johngrib.github.io/wiki/builder-pattern/){: .btn .btn--info}
+* 예제 코드 - 기계인간 John Grib 블로그 [바로가기](https://johngrib.github.io/wiki/builder-pattern/){: .btn .btn--small}
