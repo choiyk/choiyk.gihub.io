@@ -38,3 +38,4 @@ tags: java
 
 ### 참고자료
 * 예제 코드 - 기계인간 John Grib 블로그 [바로가기](https://johngrib.github.io/wiki/builder-pattern/){: .btn .btn--small}
+* 팩토리 패턴 [바로가기](http://jusungpark.tistory.com/14){: .btn .btn--small}
