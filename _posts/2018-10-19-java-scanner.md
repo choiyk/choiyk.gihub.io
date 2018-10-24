@@ -14,6 +14,7 @@ tags: java baekJoon-단계-1
 ### .hasNext() 와 .hasNextLine()
 * hasNextLine() : Returns true if there is another line in the input of this scanner. Checks to see if there is another linePattern in the buffer.
 * hasNext() : Returns true if this scanner has another token in its input. Checks if there are any more non-whitespace characters available.
+
   c.f) 만약, 토큰에 개행문자만 남은경우 false를 반환하지만, 개행문자는 그대로 남아있다.
 
 ### .close()
@@ -23,7 +24,9 @@ Scanner scan = new Scanner(System.in);
 scan.close(); //System.in 스트림이 함께 닫힌다.
 ```
 * If this scanner has not yet been closed then if its underlying readable also implements the Closeable interface then the readable's close method will be invoked.
-[InputStream](https://docs.oracle.com/javase/7/docs/api/java/io/InputStream.html)은 Closeable 인터페이스를 구현한다.  
+
+[InputStream](https://docs.oracle.com/javase/7/docs/api/java/io/InputStream.html)은 Closeable 인터페이스를 구현한다.
+
 따라서, Scanner를 close()하면 InputStream도 함께 닫힌다.
 * 한번이라도 Scanner가 닫히면 다시 Scanner를 쓰려 할 때 IllegalStateException이 발생한다.
 
