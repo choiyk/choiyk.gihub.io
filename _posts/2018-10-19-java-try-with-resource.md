@@ -1,5 +1,5 @@
 ---
-title: "Java The try-with-resources Statement"
+title: "The try-with-resources Statement"
 date: 2018-10-25"
 categories: Java
 tags: java baekJoon-단계-1
