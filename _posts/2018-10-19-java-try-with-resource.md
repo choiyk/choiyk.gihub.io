@@ -13,7 +13,7 @@ Any object that implements java.lang.AutoCloseable, which includes all objects w
 
 ex) Scanner, BufferedReader, Statement ...
 
-#### AutoCloseable 인터페이스
+### AutoCloseable 인터페이스
 ```java
 /**
  * @author Josh Bloch
@@ -25,7 +25,7 @@ public interface AutoCloseable {
 ```
 JDK1.7에 추가
 
-#### try-with-resource Statement 사용법
+### try-with-resource Statement 사용법
 ```java
 static String readFirstLineFromFile(String path) throws IOException {
     try (BufferedReader br = new BufferedReader(new FileReader(path))) {
@@ -49,7 +49,7 @@ try (InputStream in = new FileInputStream(inFile);
 // in과 out 모두 자동으로 종료됨
 ```
 
-### 참고자료
+## 참고자료
 * The try-with-resources Statement - Java Tutorials [바로가기](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html){: .btn .btn-small}
 * 중첩 try-with-resource는 어떻게 작동할까? - 블로그 [바로가기](http://multifrontgarden.tistory.com/192){: .btn .btn-small}
 * Java – Try with Resources - Baeldung [바로가기](https://www.baeldung.com/java-try-with-resources){: .btn .btn-small}
