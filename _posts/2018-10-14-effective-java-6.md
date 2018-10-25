@@ -47,9 +47,9 @@ public Object pop(){
 ex) 스택 ...
 
 ### WeakHashMap 활용
-* 캐시(Cache)
+* 캐시(Cache)  
 캐시 바깥에서 키를 참조하고 있을 때만 값을 보관하면 될 때 쓸 수 있도록 WeakHashMap을 가지고 캐시를 구현한다.
-* 리스너(listener) 등의 역호출자(Callback)
+* 리스너(listener) 등의 역호출자(Callback)  
 WeakHashMap의 키로 저장하여 역호출자에 대한 약한 참조만 저장한다.
 
 ## 참고자료
