@@ -2,7 +2,7 @@
 title: "규칙4 객체 생성을 막을 때는 private 생성자를 사용하라"
 date: 2018-10-25"
 categories: EffectiveJava
-tags: java singleton 추상클래스
+tags: java pattern 추상클래스
 ---
 
 ## 규칙4

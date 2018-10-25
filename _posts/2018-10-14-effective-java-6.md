@@ -2,7 +2,7 @@
 title: "규칙6 유효기간이 지난 객체 참조는 폐기하라"
 date: 2018-10-25"
 categories: EffectiveJava
-tags: java raference gc
+tags: java reference gc
 ---
 
 ## 규칙6

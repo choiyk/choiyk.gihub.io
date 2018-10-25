@@ -2,7 +2,7 @@
 title: "규칙2 생성자 인자가 많을 때는 Builder 패턴 적용을 고려하라"
 date: 2018-10-14"
 categories: EffectiveJava
-tags: java builder javaBeans
+tags: java pattern
 ---
 
 ## 규칙2
