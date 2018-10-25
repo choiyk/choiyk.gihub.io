@@ -2,7 +2,7 @@
 title: "규칙1 생성자 대신 정적 팩토리 메소드를 사용할 수 없는지 생각해 보라"
 date: 2018-10-14"
 categories: EffectiveJava
-tags: java
+tags: java factory
 ---
 
 ## 규칙1
@@ -28,3 +28,4 @@ Static Factory Method 는 public static method 로서 외부 클래스에서 바
 * static과 singleton pattern - 점프 투 자바 [바로가기](https://wikidocs.net/228){: .btn .btn--small}
 * 정적 메소드로만 구성된 Collections Class [바로가기](http://www.incodom.kr/Java/java.util.Collections){: .btn .btn--small}
 * final static [바로가기](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/){: .btn .btn--small}
+* 팩토리 패턴 [바로가기](http://jusungpark.tistory.com/14){: .btn .btn--small}

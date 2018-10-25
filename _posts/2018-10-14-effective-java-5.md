@@ -2,7 +2,7 @@
 title: "규칙5 불필요한 객체는 만들지 말라"
 date: 2018-10-25"
 categories: EffectiveJava
-tags: java
+tags: java adaptor 
 ---
 
 ## 규칙5
