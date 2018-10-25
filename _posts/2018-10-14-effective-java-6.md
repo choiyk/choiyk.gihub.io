@@ -55,3 +55,4 @@ WeakHashMap의 키로 저장하여 역호출자에 대한 약한 참조만 저�
 ## 참고자료
 * Listener 리스트를 위한 WeakHashMap 사용하기 - 블로그 [바로가기](http://egloos.zum.com/folog/v/1237140){: .btn .btn--small}
 * Java Reference와 GC - Naver D2 [바로가기](https://d2.naver.com/helloworld/329631){: .btn .btn--small}
+* Guide to WeakHashMap in Java - Baeldung [바로가기](https://www.baeldung.com/java-weakhashmap){: .btn .btn--small}
