@@ -23,7 +23,7 @@ Static Factory Method 는 public static method 로서 외부 클래스에서 바
 * 정적 팩토리 메서드는 다른 정적 메서드와 잘 구분되지 않는다. (문서만으로 확인하기 어려울 수 있음)
 주석을 통해 정적 팩토리 메소드임을 알리거나, 정적 팩토리 메소드 이름을 지을 때 조심하는 수밖에 없다.
 
-### 참고자료
+## 참고자료
 * 예제 코드 - 기계인간 John Grib 블로그 [바로가기](https://johngrib.github.io/wiki/static-factory-method-pattern/){: .btn .btn--small}
 * static과 singleton pattern - 점프 투 자바 [바로가기](https://wikidocs.net/228){: .btn .btn--small}
 * 정적 메소드로만 구성된 Collections Class [바로가기](http://www.incodom.kr/Java/java.util.Collections){: .btn .btn--small}
