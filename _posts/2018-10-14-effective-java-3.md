@@ -2,7 +2,7 @@
 title: "규칙3 private 생성자나 enum 자료형은 싱글턴 패턴을 따르도록 설계하라"
 date: 2018-10-14"
 categories: EffectiveJava
-tags: java singleton
+tags: java singleton 클래스_메모리_로딩
 ---
 
 ## 규칙3
