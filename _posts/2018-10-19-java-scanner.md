@@ -2,7 +2,7 @@
 title: "Scanner"
 date: 2018-10-19"
 categories: Java
-tags: java baekJoon-단계-1
+tags: java baekJoon
 ---
 
 ## Scanner
