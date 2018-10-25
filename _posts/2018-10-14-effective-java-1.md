@@ -1,5 +1,5 @@
 ---
-title: "Effective Java 규칙1"
+title: "규칙1 생성자 대신 정적 팩토리 메소드를 사용할 수 없는지 생각해 보라"
 date: 2018-10-14"
 categories: EffectiveJava
 tags: java
